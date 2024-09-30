@@ -51,4 +51,4 @@ I'm a passionate software developer currently working at a startup as a Backend 
 
 ---
 
-💡 **"Never stop learning, because life never stops teaching!"**
+💡 **"Code is like a puzzle — there's always a smarter way to solve it!"**
