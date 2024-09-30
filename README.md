@@ -2,7 +2,7 @@
 
 ### 🚀 NestJS Developer | Machine Learning Enthusiast
 
-I'm a passionate software developer currently working at a startup as a Backend Engineer, specializing in **NestJS**, **PostgreSQL**, and **Prisma ORM**. I love building scalable APIs and applications using **TypeScript** and **JavaScript**.
+I'm a software developer currently working at a startup as a Backend Engineer, specializing in **NestJS**, **PostgreSQL**, and **Prisma ORM**. I love building scalable APIs and applications using **TypeScript** and **JavaScript**.
 
 ---
 
