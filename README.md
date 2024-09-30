@@ -45,9 +45,9 @@ I'm a passionate software developer currently working at a startup as a Backend 
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/a-g-shashank/)  
+- [Twitter](https://x.com/shashankgbhat)
+- [Email](mailto:shashankbhat56@gmail.com)
 
 ---
 
