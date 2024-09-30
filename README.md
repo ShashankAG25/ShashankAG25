@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Shashank! 👋
 
-<!--
-**ShashankAG25/ShashankAG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 NestJS Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate software developer currently working at a startup as a Backend Engineer, specializing in **NestJS**, **PostgreSQL**, and **Prisma ORM**. I love building scalable APIs and applications using **TypeScript** and **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools:
+- **Backend**: NestJS, PostgreSQL, Prisma ORM
+- **Languages**: TypeScript, JavaScript, Python, Java, C++
+- **Machine Learning**: Keras, ResNet, Deep Learning
+- **Mobile Development**: Android SDK, Java, Firebase
+- **Tools**: Docker, Git, VS Code, Postman, DBeaver
+
+---
+
+### 💼 Work Experience:
+- **Backend Engineer**
+  - Developed and maintained API's from scratch using **NestJS**, **PostgreSQL**, and **Prisma ORM**.
+  - Implemented scalable solutions for customer management, job handling, service processing and dashboard stats features.
+
+---
+
+### 💻 Other Projects:
+- **Signature Detection from Scanned Documents** 🖋️
+  - Built a model for detecting handwritten signatures in scanned documents using **Python**, **ResNet**, and **Deep Learning**.
+  - Analyzed performance metrics to improve detection accuracy.
+
+- **Face & Logo Recognition** 👁️
+  - Developed **machine learning** models for recognizing faces and detecting logos in images.
+  - Worked on image processing pipelines to enhance recognition accuracy.
+
+- **Android App Development** 📱
+  - Developed an Android app using **Java** and **Android SDK**.
+  - Integrated **Firebase Auth** and **Firebase Realtime Database** to enable secure authentication and real-time data synchronization.
+
+---
+
+### 🌱 Currently Learning:
+- Advanced NestJS patterns for microservices
+- Experimenting with **AI** and **ML** in production applications
+- Enhancing skills in **Docker** and **Kubernetes**
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/your-handle)
+- [Email](mailto:your.email@example.com)
+
+---
+
+💡 **"Never stop learning, because life never stops teaching!"**
