@@ -11,7 +11,7 @@ I'm currently working at a startup as a Backend Engineer, specializing in **Nest
 - **Languages**: TypeScript, JavaScript, Python, Java, C++
 - **Machine Learning**: Keras, ResNet, Deep Learning
 - **Mobile Development**: Android SDK, Java, Firebase
-- **Tools**: Docker, Git, VS Code, Postman, DBeaver
+- **Tools**: Git, VS Code, Postman, DBeaver
 
 ---
 
