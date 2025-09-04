@@ -1,53 +1,64 @@
 # Hi, I'm Shashank! 👋
 
-### 🚀 Backend engineer | Machine Learning Enthusiast
+### 🚀 Software Engineer | Backend & Cloud Specialist | Machine Learning Enthusiast
 
-I'm currently working at a startup as a Backend Engineer, specializing in **NestJS**, **PostgreSQL**, and **Prisma ORM**. I love building scalable APIs and applications using **TypeScript** and **JavaScript**.
+I’m a Backend & Cloud Engineer with **1.5+ years of experience** building scalable systems, APIs, and automation.  
+Currently working at **GoForSys Technologies** as a **Software Engineer**, where I design and optimize backend systems using **NestJS**, **PostgreSQL**, and **AWS**.  
+
+I enjoy solving production challenges, mentoring developers, and applying **machine learning** in practical projects.
 
 ---
 
 ### 🔧 Technologies & Tools:
-- **Backend**: NestJS, PostgreSQL, Prisma ORM
 - **Languages**: TypeScript, JavaScript, Python, Java, C++
-- **Machine Learning**: Keras, ResNet, Deep Learning
-- **Mobile Development**: Android SDK, Java, Firebase
-- **Tools**: Git, VS Code, Postman, DBeaver
+- **Backend & Databases**: NestJS, Node.js, PostgreSQL, Prisma ORM, REST APIs
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, SNS, SQS), Ubuntu, Cron Jobs, PgBouncer
+- **Security**: Authentication & Authorization (JWT), Password Hashing (bcrypt), Rate Limiting & Throttling
+- **Monitoring & Logs**: Splunk, CloudWatch
+- **Machine Learning**: OpenCV, TensorFlow, Keras, Deep Learning, ResNet
+- **Tools**: Git, GitHub Workflows, Postman, DBeaver, VS Code
 
 ---
 
 ### 💼 Work Experience:
-- **Backend Engineer**
-  - Developed and maintained API's from scratch using **NestJS**, **PostgreSQL**, and **Prisma ORM**.
-  - Implemented scalable solutions for customer management, job handling, service processing and dashboard stats features.
+
+- **Software Engineer — GoForSys Technologies (Jun 2025 – Present)**  
+  - Diagnosed and resolved a **critical production outage** (DB pool timeout) by integrating **PgBouncer**, boosting scalability.  
+  - Secured APIs with **rate limiting, throttling**, and JWT authentication.  
+  - Automated **cron jobs** for database backups on **AWS EC2 (Ubuntu)**.  
+  - Mentored and onboarded **3 junior developers**, raising team code quality.  
+
+- **Associate Software Engineer — GoForSys Technologies (Feb 2024 – Jun 2025)**  
+  - Built **RESTful APIs** with **NestJS** and **PostgreSQL** from scratch.  
+  - Designed efficient schemas with **Prisma ORM** and optimized queries.  
+  - Supported debugging, bug-fixing, and production releases.  
 
 ---
 
-### 💻 Other Projects:
-- **Signature Detection from Scanned Documents** 🖋️
-  - Built a model for detecting handwritten signatures in scanned documents using **Python**, **ResNet**, and **Deep Learning**.
-  - Analyzed performance metrics to improve detection accuracy.
+### 💻 Projects:
+- **Signature Segmentation from Documents** 🖋️  
+  - Built signature detection using **ResNet50, TensorFlow, OpenCV** with 83% accuracy.  
+  - Applied image preprocessing & comparative analysis with YOLOv5.  
 
-- **Face & Logo Recognition** 👁️
-  - Developed **machine learning** models for recognizing faces and detecting logos in images.
-  - Worked on image processing pipelines to enhance recognition accuracy.
+- **Face & Logo Recognition** 👁️  
+  - Developed real-time recognition pipelines using **OpenCV** and **scikit-learn**.  
 
-- **Android App Development** 📱
-  - Developed an Android app using **Java** and **Android SDK**.
-  - Integrated **Firebase Auth** and **Firebase Realtime Database** to enable secure authentication and real-time data synchronization.
+- **Android App Development** 📱  
+  - Developed an Android app in **Java**, integrated with **Firebase Auth** & **Realtime Database**.  
 
 ---
 
 ### 🌱 Currently Learning:
-- Advanced NestJS patterns for microservices
-- Experimenting with **AI** and **ML** in production applications
-- Enhancing skills in **Docker** and **Kubernetes**
+- Advanced **NestJS microservices patterns**  
+- Scaling apps with **Docker & Kubernetes**  
+- Applying **ML models** in production  
 
 ---
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/a-g-shashank/)  
-- [Twitter](https://x.com/shashankgbhat)
-- [Email](mailto:shashankbhat56@gmail.com)
+- [GitHub](https://github.com/ShashankAG25)  
+- [Email](mailto:shashankbhat56@gmail.com)  
 
 ---
 
