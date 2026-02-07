@@ -2,8 +2,7 @@
 
 ### 🚀 Software Engineer | Backend & Cloud Specialist | Machine Learning Enthusiast
 
-I’m a Backend & Cloud Engineer with **1.5+ years of experience** building scalable systems, APIs, and automation.  
-Currently working at **GoForSys Technologies** as a **Software Engineer**, where I design and optimize backend systems using **NestJS**, **PostgreSQL**, and **AWS**.  
+I’m a Backend & Cloud Engineer with **2 years of experience** building scalable systems, APIs, and automation.  
 
 I enjoy solving production challenges, mentoring developers, and applying **machine learning** in practical projects.
 
